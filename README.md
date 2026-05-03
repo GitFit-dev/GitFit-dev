@@ -1,6 +1,5 @@
-[README.md](https://github.com/user-attachments/files/27313198/README.md)
-<!-- GITFIT — GitHub Profile README -->
 
+<!-- GITFIT — GitHub Profile README -->
 <div align="center">
 
 # 👋 Hey, soy **GitFit-dev**
