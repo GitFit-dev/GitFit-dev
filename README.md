@@ -5,6 +5,11 @@
   <img src="https://raw.githubusercontent.com/GitFit-dev/GitFit-dev/main/assets/banner.png" width="100%" />
 </div>
 # 👋 hola, soy **GitFit-dev**
+
+
+
+
+  
 ### Fullstack Developer · Ciberseguridad · Coach Fitness
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Node.js+%2B+JavaScript+Developer;REST+API+Architect;MongoDB+%26+MySQL+Engineer;Cybersecurity+Enthusiast;Building+fitness+tech)](https://git.io/typing-svg)
