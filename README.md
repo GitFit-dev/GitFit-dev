@@ -1,7 +1,9 @@
 
 <!-- GITFIT — GitHub Profile README -->
 <div align="center">
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/GitFit-dev/GitFit-dev/main/assets/banner.png" width="100%" />
+</div>
 # 👋 hola, soy **GitFit-dev**
 ### Fullstack Developer · Ciberseguridad · Coach Fitness
 
