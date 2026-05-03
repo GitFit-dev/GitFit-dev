@@ -4,7 +4,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/GitFit-dev/GitFit-dev/main/assets/banner.png" width="100%" />
 </div>
-# 👋 hola, soy GitFit-dev
+ 👋 hola, soy GitFit-dev
 
 
 
